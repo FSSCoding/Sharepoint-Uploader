@@ -1,0 +1,8 @@
+python-dotenv
+requests
+msal
+rich
+paramiko
+httpx
+bcrypt
+pathspec

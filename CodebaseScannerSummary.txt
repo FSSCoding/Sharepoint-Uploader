@@ -1,0 +1,99 @@
+# 🧠 Enhanced Codebase Scanner Report
+## 📁 Project: Sharepoint-Uploader
+### 📍 Location: C:\Build Folder\Sharepoint-Uploader
+### ⏰ Scan Date: 2025-06-18 23:57:25
+### ⚡ Scan Duration: 1.31 seconds
+### 🔧 Scanner Version: Enhanced Codebase Scanner v3.2
+
+### 📋 Gitignore Patterns: 129 patterns applied (Simple pattern matching)
+
+---
+
+## 📑 Table of Contents
+1. [Executive Summary](#executive-summary)
+2. [Environment & Entry Point](#environment--entry-point)
+3. [Code Quality & Health](#code-quality--health)
+4. [Programming Languages](#programming-languages)
+5. [Largest Classes](#largest-classes)
+6. [Largest Functions](#largest-functions)
+7. [Largest Source Files](#largest-source-files)
+8. [Largest Files (All Types)](#largest-files-all-types)
+9. [Project Structure](#project-structure)
+10. [Detailed Analysis](#detailed-analysis)
+11. [Complete File Tree](#complete-file-tree)
+
+---
+
+## 🧹 Executive Summary
+### 📊 Project Statistics
+| Metric                | Value                     |
+|-----------------------|---------------------------|
+| **Total Directories** | 26 |
+| **Total Files**       | 131 |
+| **Source Code Files** | 115 (87.8%) |
+| **Code Lines**        | 13,507 |
+| **Words**             | 76,435 |
+| **Functions**         | 126 |
+| **Classes**           | 12 |
+| **Comments**          | 552 (4.1%) |
+| **Total Size**        | 1.0 GB |
+
+## 🧰 Environment & Entry Point
+### 🚀 Main Entry Point
+- **File**: `main.py`
+- **Location**: `C:\Build Folder\Sharepoint-Uploader/project_folder/main.py`
+- **Size**: 12.81 KB
+
+## 🧠 Code Quality & Health
+- **Overall Health Score**: 95/100 ✅
+- **Project Completion**: 95/100 ✅ (Production Ready)
+- **Comment Coverage**: 4.1%
+- **Test Files**: 8
+- **Documentation Files**: 68
+- **Empty Files**: 7
+- **Max Directory Depth**: 5 levels
+
+### 💬 Comment Analysis
+- **Single-line Comments**: 242 (43.8%)
+- **Docstrings**: 129 (23.4%)
+- **Multi-line Comments**: 0 (0.0%)
+- **Inline Comments**: 31
+- **TODO/FIXME Comments**: 2
+- **Header Comments**: 0
+
+#### Comment Breakdown by Language
+| Language | Single-line | Docstrings | Multi-line | Inline | TODO |
+|----------|-------------|------------|------------|--------|----- |
+| **Python** | 242 | 129 | 0 | 31 | 2 |
+
+## 🧩 Programming Languages
+| Language   | Files | Lines | % of Code | Size     |
+|------------|-------|-------|-----------|----------|
+| **Markdown** | 62 | 8,273 | 61.2% | 399.67 KB |
+| **Python** | 18 | 2,740 | 20.3% | 129.9 KB |
+| **Json** | 29 | 508 | 3.8% | 88.04 KB |
+| **Text** | 6 | 431 | 3.2% | 28.62 KB |
+
+## 🧱 Largest Classes
+| Class Name         | Lines | Methods | File                          |
+|--------------------|-------|---------|-------------------------------|
+| `GraphAPITestFramework` | 743 | 14 | `api_test_automation.py` |
+| `SharePointUploader` | 185 | 4 | `uploader.py` |
+| `ProgressTracker` | 174 | 13 | `progress.py` |
+| `RemoteFetcher` | 162 | 10 | `ssh_copy.py` |
+| `TestStatePersister` | 56 | 6 | `test_utils.py` |
+| `TestLoadConfig` | 37 | 3 | `test_utils.py` |
+| `StatePersister` | 35 | 4 | `utils.py` |
+| `TestConfig` | 33 | 1 | `api_test_automation.py` |
+| `PathManager` | 21 | 3 | `utils.py` |
+| `Logger` | 15 | 1 | `utils.py` |
+
+---
+
+## 📄 Report Information
+- **Generated**: 2025-06-18 23:57:25
+- **Scanner Version**: Enhanced Codebase Scanner v3.2
+- **Features**: Environment Detection, Import Analysis, Project Health Assessment, LLM Model Detection
+- **Scan Duration**: 1.31 seconds
+
+*Report generated with Enhanced Codebase Scanner - optimized for readability and comprehensive analysis.*

@@ -1,0 +1,133 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment directories
+venv/
+.venv/
+env/
+ENV/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Sensitive config files
+project_folder/.env
+*.env
+.env.*
+config.json
+!config.json.template
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Log files
+*.log
+logs/
+*.log.*
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Build and distribution files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# Large files and test data
+project_folder/test_data/large_file.bin
+project_folder/test_data/*.bin
+project_folder/test_data/*.iso
+project_folder/test_data/*.img
+project_folder/test_data/*.dmg
+project_folder/test_data/*.zip
+project_folder/test_data/*.tar.gz
+project_folder/test_data/*.rar
+project_folder/test_data/*.7z
+
+# Archive directory
+/project_folder/archive
+
+# Any file larger than 50MB (GitHub soft limit)
+*.dump
+*.backup
+*.bak
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Node.js (if any JS dependencies)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Package managers
+.npm
+.yarn
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.test
+.env.production
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json

@@ -1,0 +1,9 @@
+{
+  "TENANT_ID": "your-tenant-id-here",
+  "CLIENT_ID": "your-client-id-here",
+  "CLIENT_SECRET": "your-client-secret-here",
+  "SITE_ID": "your-site-id-here",
+  "DRIVE_ID": "your-drive-id-here",
+  "SHAREPOINT_HOST": "graph.microsoft.com",
+  "SCOPES": "https://graph.microsoft.com/.default"
+} 
